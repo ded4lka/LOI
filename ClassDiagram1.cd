@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LOI.DiagramRenderer" Collapsed="true">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAgABAAAAAAEAAAAAAAAAAAAAAAAwAAAAQA=</HashCode>
+      <FileName>src\DiagramRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.ExpressionEvaluator" Collapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAEAgAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>src\ExpressionEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalExpressionEvaluator" Collapsed="true">
+    <Position X="4.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\ExpressionEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.ExpressionParser" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQQAAEAAAAAEAAACAIAAAAAAAIBAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\ExpressionParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.Expression" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.VariableExpression" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.AndExpression" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.OrExpression" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.DifferenceExpression" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.XorExpression" Collapsed="true">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\Expressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.ExpressionValidator" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABACAAAAAEAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\ExpressionValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalExpressionParser" Collapsed="true">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQQAAEAAAAAEAAACAIAAACAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\NumericalExpressionParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalExpression" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalVariableExpression" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalAndExpression" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalOrExpression" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalDifferenceExpression" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.NumericalXorExpression" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>src\NumericalExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.Program" Collapsed="true">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>src\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.Set" Collapsed="true">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>src\Set.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.SetDataCollector" Collapsed="true">
+    <Position X="11.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQEAAAAAAAAAAAoAAAAAIAAAAAAAAAAQAAAEAAEAAg=</HashCode>
+      <FileName>src\SetDataCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.Utils" Collapsed="true">
+    <Position X="9.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAIIAAAAAAAAgAAA=</HashCode>
+      <FileName>src\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LOI.MainForm" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASAAAAGACAAExwAAACUGAADAQAIAIYBAAABAIAARYg=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
